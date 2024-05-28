@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
+    "start": "vite --port {port}",
     "build":"vite build"
   },
   "keywords": [],
